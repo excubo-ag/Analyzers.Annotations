@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="package.csproj" Condition="Exists('package.csproj')"/>
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.3;netstandard2.0;netstandard2.1;netcoreapp3.0;netcoreapp3.1</TargetFrameworks>
+    <RootNamespace>Excubo.Analyzers.Annotations</RootNamespace>
+    <AssemblyName>Excubo.Analyzers.Annotations</AssemblyName>
+  </PropertyGroup>
+
+</Project>
