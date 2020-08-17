@@ -5,7 +5,7 @@ This project contains attributes that support [Excubo.Analyzers.DependencyInject
 # Installation
 
 Excubo.Analyzers.Annotations is distributed via [via nuget.org](https://www.nuget.org/packages/Excubo.Analyzers.Annotations/).
-![Nuget](https://img.shields.io/nuget/v/Excubo.Analyzers.Annotations)
+[![Nuget](https://img.shields.io/nuget/v/Excubo.Analyzers.Annotations)](https://www.nuget.org/packages/Excubo.Analyzers.Annotations/)
 
 #### Package Manager:
 ```ps
